@@ -3958,7 +3958,7 @@ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     
     /* Change CTA text on mobile */
     .nav-cta::before {
-        content: "Book A 14 Day Free Trail";
+        content: "Book A 14 Day Free Trial";
     }
     
     .nav-cta {
@@ -4435,3 +4435,4 @@ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         gap: 20px;
     }
 }
+
