@@ -3958,7 +3958,7 @@ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     
     /* Change CTA text on mobile */
     .nav-cta::before {
-        content: "Book A 14 Day Free Trial";
+        content: "Get More Patients";
     }
     
     .nav-cta {
@@ -4656,6 +4656,7 @@ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         display: none !important;
     }
 }
+
 
 
 
